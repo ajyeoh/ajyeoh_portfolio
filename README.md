@@ -14,6 +14,9 @@ Used data from https://archive.ics.uci.edu/ml/datasets/online+retail to perform 
 These projects were developed in Java and utilized the model-view-controller (MVC) design pattern.
 
 * Tetris
+<img src="tetris_img_ajyeoh.png"
+     alt="Tetris"
+     style="float: left; margin-right: 10px;" />
 Developed a Tetris game that can be run in an executable JAR file. Game has multiple levels where the speed of blocks falling speeds up as the user clears more rows.
 
 * Twenty Questions
