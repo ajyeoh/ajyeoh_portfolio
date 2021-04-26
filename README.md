@@ -1,4 +1,4 @@
-# Portfolio
+# List of Projects
 
 ## Graph Correlation Problem
 Given a transaction dataset, I was tasked to find the most common set of items purchased together. 
