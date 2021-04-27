@@ -8,7 +8,7 @@ There were two key approaches. The first was a simple correlation analysis to fi
 To extend this to finding groups of larger than two products, I implemented a graph to find groups of varying sizes to determine a list of products that are commonly purhcased together.
 
 ## Customer Segmentation Problem
-Used data from https://archive.ics.uci.edu/ml/datasets/online+retail to perform Customer Segmentation (RFM Analysis).
+Used data from https://archive.ics.uci.edu/ml/datasets/online+retail to perform Customer Segmentation. Analysis utilizes RFM Analysis and Clustering (K Means, Hierarchical Clustering, and Gausian Mixture Models).
 
 ## Object-Oriented Programming Projects
 These projects were developed in Java and utilized the model-view-controller (MVC) design pattern.
